@@ -1,0 +1,18 @@
+***** LISTADO DE PRODUCTOS *****
+ 
+Producto:  MANZANAS
+Precio:  1,2 €
+Cantidad:  100
+ 
+Producto:  PERAS
+Precio:  1,5 €
+Cantidad:  80
+ 
+Producto:  NARANJAS
+Precio:  0,8 €
+Cantidad:  120
+ 
+Producto:  UVAS
+Precio:  2,15 €
+Cantidad:  50
+ 
